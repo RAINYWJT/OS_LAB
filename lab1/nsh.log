@@ -1,0 +1,183 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.5.18)  4 JUN 2024 10:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/rainy/c/os/lab1/nsh
+(/home/rainy/c/os/lab1/nsh.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+/home/rainy/c/os/lab1/nsh.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 c
+     知道错哪了，请问错哪了？
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no 知 in font nullfont!
+Missing character: There is no 道 in font nullfont!
+Missing character: There is no 错 in font nullfont!
+Missing character: There is no 哪 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 请 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 错 in font nullfont!
+Missing character: There is no 哪 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no ？ in font nullfont!
+
+/home/rainy/c/os/lab1/nsh.tex:2: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ^^I\begin{figure}
+                     [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+/home/rainy/c/os/lab1/nsh.tex:4: Undefined control sequence.
+l.4 ^^I^^I\includegraphics
+                          [width=1\textwidth]{11.png}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+/home/rainy/c/os/lab1/nsh.tex:4: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.4 ^^I^^I\includegraphics[width=1\textwidth]
+                                             {11.png}\\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/rainy/c/os/lab1/nsh.tex:4: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.4 ^^I^^I\includegraphics[width=1\textwidth]
+                                             {11.png}\\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--4
+ [] 
+ []
+
+
+/home/rainy/c/os/lab1/nsh.tex:5: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ^^I^^I\caption
+                  {测试样例}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/home/rainy/c/os/lab1/nsh.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ^^I^^I\caption{测
+                    试样例}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 试 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 例 in font nullfont!
+
+/home/rainy/c/os/lab1/nsh.tex:7: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ^^I\end{figure}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/home/rainy/c/os/lab1/nsh.tex:10: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+/home/rainy/c/os/lab1/nsh.tex:10: Undefined control sequence.
+<write> \newlabel{fig:11}{{}{\thepage 
+                                      }}
+l.10 \end{document}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:11}{{}{}}
+] (./nsh.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 34 strings out of 481370
+ 603 string characters out of 5926567
+ 239974 words of memory out of 5000000
+ 17156 multiletter control sequences out of 15000+600000
+ 532346 words of font info for 25 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 19i,4n,15p,174b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on nsh.pdf (1 page).
